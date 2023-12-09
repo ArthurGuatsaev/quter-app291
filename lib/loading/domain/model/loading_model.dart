@@ -1,0 +1,18 @@
+enum VLoading {
+  firstShowFalse,
+  firstShowTrue,
+  battary,
+  finanseModeTrue,
+  finanseModeFalse,
+  checkVpn,
+  deviceInfo,
+  initRemote,
+  remoteActivate,
+  tgTrue,
+  tgFalse,
+  apphud,
+  amplitude,
+  onesignal,
+  video,
+  notes,
+}
